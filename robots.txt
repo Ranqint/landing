@@ -1,1 +1,1 @@
-Sitemap: https://queueint.github.io/landing/sitemap.xml
+Sitemap: https://queueint.github.io/landing/sitemap.txt
