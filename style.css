@@ -2,27 +2,26 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: 'Varela Round', sans-serif;
-  background-color: #C8F9FF;
+  background-color: #C2EFFF;
   width: 100vw;
   overflow-x: hidden;
-  color: #323130;
+  color: #000;
 }
 
 h1, h2, h3, h4, h5 {
   margin: 0;
-  color: #94EE59;
+  color: #81CC1F;
   font-size: 1.5em;
 }
 
 a {
-  color: #59DEEE;
+  color: #1F81CC;
 }
 
 .header {
   background-color: #FFF;
-/*   background-image: linear-gradient(#FFF, #EAFBFD); */
-  background-image: linear-gradient(#FFF, #DDFBFF);
-  border-bottom: 1px solid #93F3FF;
+  background-image: linear-gradient(#FFF, #C2EFFF);
+  border-bottom: 1px solid #AEDCFF;
   color: #FFF;
   min-height: 8vh;
   text-align: left;
@@ -65,7 +64,7 @@ a {
 
 .header .nav a {
   display: inline-block;
-  color: #59DEEE;
+  color: #1F81CC;
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5em;
@@ -76,7 +75,7 @@ a {
 }
 
 .header a:hover {
-  color: #97EAF4;
+  color: #41a4f0;
 }
 
 @media screen and (max-width: 1000px) {
@@ -228,13 +227,13 @@ a {
 }
 
 .btn.callToAction {
-  background-color: #59DEEE;
+  background-color: #1167A8;
   color: #FFF;
   font-weight: bold;
 }
 
 .btn.callToAction:hover {
-  background-color: #97EAF4;
+  background-color: #1f81cc;
 }
 
 .footer {
@@ -242,7 +241,7 @@ a {
 }
 
 .footer .content {
-  background-color: #1E4A4F;
+  background-color: #2C11AB;
   color: #FFF;
   padding: 1em;
   display: flex;

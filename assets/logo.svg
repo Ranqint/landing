@@ -13,7 +13,7 @@
    version="1.1"
    id="svg31"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="qint.svg"
+   sodipodi:docname="logo.svg"
    inkscape:export-filename="C:\Users\USER\Desktop\qint.png"
    inkscape:export-xdpi="1399.6671"
    inkscape:export-ydpi="1399.6671">
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="16.110044"
-     inkscape:cy="13.718037"
+     inkscape:cx="15.172544"
+     inkscape:cy="11.709108"
      inkscape:document-units="mm"
      inkscape:document-rotation="0"
      showgrid="false"
@@ -50,24 +50,20 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g961"
-     transform="matrix(0.94179208,0,0,0.94179208,-14.13557,-8.0172511)">
-    <path
-       style="fill:none;stroke:#50dfe3;stroke-width:0.365;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 17.28785,12.929311 2.126116,0.01181"
-       id="path877-8"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="fill:none;stroke:#59deee;stroke-width:0.377725;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path875-7"
-       cx="17.311472"
-       cy="10.815007"
-       r="2.1133835" />
-  </g>
+  <path
+     style="fill:none;stroke:#1f81cc;stroke-width:0.342;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2.1459902,4.1594716 2.0023592,0.011123"
+     id="path877-8"
+     sodipodi:nodetypes="cc" />
+  <circle
+     style="fill:none;stroke:#1f81cc;stroke-width:0.342;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path875-7"
+     cx="2.1682372"
+     cy="2.168237"
+     r="1.9903679" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.582083px;fill:#94ee59;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.582083px;fill:#81cc1f;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;"
      x="4.1299772"
      y="4.3483968"
      id="text943"><tspan
@@ -75,16 +71,16 @@
        id="tspan941"
        x="4.1299772"
        y="4.3483968"
-       style="font-size:4.93889px;fill:#94ee59;fill-opacity:1;stroke-width:0.264583">int</tspan></text>
+       style="font-size:4.93889px;fill:#81cc1f;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;">int</tspan></text>
   <rect
-     style="fill:none;fill-rule:evenodd;stroke:#59deee;stroke-width:0.11;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:#1f81cc;stroke-width:0.11;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect33-9"
      width="0.8870371"
      height="0.8870371"
      x="4.3583651"
      y="0.51422936" />
   <rect
-     style="fill:#59deee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0491665;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#1f81cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0491665;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect33-6-76"
      width="0.5224449"
      height="0.5224449"
