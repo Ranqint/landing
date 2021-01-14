@@ -17,3 +17,20 @@ window.addEventListener('load', () => {
     document.addEventListener('click', onClickOutside);
   });
 });
+
+function emitEvent(event) {
+  switch (event) {
+    case 'login': {
+      gtag('event', 'sign_up', {});
+      break;
+    }
+    case 'contactPhone': {
+      gtag('event', 'contact', { event_category: 'engagement', value: 'phone' });
+      break;
+    }
+    case 'contactEmail': {
+      gtag('event', 'contact', { event_category: 'engagement', value: 'email' });
+      break;
+    }
+  }
+}
